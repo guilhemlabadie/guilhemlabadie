@@ -1,74 +1,24 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on this Portfolio 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: drguilhemlabadie@gmail.com
-- 😄 Pronouns: he / him
--->
+My name is **Guilhem Labadie**.
+
+🔭 I’m currently working on this [Portfolio](https://github.com/guilhemlabadie/example_portfolio) to showcase some data science techniques used on Health data:
+
+   * **Causal Inference** using MIMIC-IV Clinical Database: Linear regression, Generalized Linear Model, Matching, Propensity score matching  [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
+   * **Data Exploration** of MIMIC-IV Clinical Database: [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
+   * **SQL** Data exploration using MIMIC-IV Clinical Database: [notebook](3.MIMIC-IV_SQL.ipynb) 
+   * **A/B testing, Multiarmed Bandits, Thompson Bootstrap Sampling** using AIDS clinical trial: [notebook](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)    
+   * **PCA** and **Bayesian Optimization** using the Breast Cancer Wisconsin Diagnostic dataset: [notebook](Breast%20Cancer%20Diagnostic%20Features.ipynb)
+   * **Time Series Forecasting** for pharma sales: **ARMA(p,q), SARIMA, SARIMAX, VAR(p)** and Granger Causality test [notebook](Timeseries.ipynb)      
+   * **Time Series Forecasting** for pharma sales with Deep Learning: **Deep Neural Network, LSTM, CNN, LSTM + CNN, Prophet** [notebook](Timeseries2.ipynb)
+   * UCI Heart Disease (Cleveland) dataset: **binary outcome Machine Learning classifier**: **Logistic regression, Random Forest, AdaBoost, XGBoost, MLP, SHAP, LIME**  [notebook](Classification.ipynb)
+
 # Data Strategy . Monitoring & Evaluation · Data Science 
 
 New York, USA  
 [Linkedin](linkedin.com/in/guilhem-labadie) · drguilhemlabadie@gmail.com · [Google Scholar Profile](https://scholar.google.com/citations?user=1KHhBdwAAAAJ&hl=en) · [Peer reviewer]( https://orcid.org/0000-0002-4092-0923)
 
-#### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
-
----
-### :book: Portfolio Notebooks
-    
-* **Causal Inference using MIMIC-IV Clinical Database**: [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
-     * Review of illustrative examples of causal inference 
-         * **Linear regression**
-         * Linear regression **assumptions tests + Cook's distance**
-         * **Generalized Linear Model**
-         * **Matching**
-         * **Propensity score matching (PSM)**
-     * Jupyter Notebook: **Python Panda Statsmodels Sklearn Scipy**
-
- * **Data Exploration of MIMIC-IV Clinical Database**: [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
-    * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
-    * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
-            
- * **SQL Data exploration using MIMIC-IV Clinical Database**: [notebook](3.MIMIC-IV_SQL.ipynb)
-     * Jupyter Notebook: SQLite
-     * SQL: **SELECT, filtering, text filtering, sorting, aggregation, DISTINCT, GROUP BY, CASE, CTE, SELF JOIN, subqueries, Window function**
- 
-* **A/B testing, Multiarmed Bandits, TBS using AIDS clinical trial**: [notebook](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)
-    * **A/B testing**: sample size, logistic regression and assumptions testing
-    * **A/B/n testing** including sampling (4 arms)
-    * **Multiarmed Bandits** and ε greedy policy (4 arms)
-    * **Thompson Bootstrap Sampling** (4 arms)
-    * Jupyter Notebook: **Python Panda Statsmodels Scipy**
-      
-* **PCA and Bayesian Optimization using the Breast Cancer Wisconsin Diagnostic dataset**: [notebook](Breast%20Cancer%20Diagnostic%20Features.ipynb)
-    * **Principal Component Analysis (PCA)**: Features standardization, PCA, interpretation (malignant / benign)
-    * **Bayesian Optimization** for Hyperparameter Tuning in Clinical Risk Prediction: AUC, Accuracy, F1
-    * Jupyter Notebook: **Python Panda Sklearn Skopt** 
-      
-* **Time Series Forecasting for pharma sales**: [notebook](Timeseries.ipynb)
-    * **ARMA(p,q)**: seasonality exploration, ADF statistic, ACF and PACF plots, model choice based on AIC, Ljung-Box test, MSE / MAE comparaison.
-    * **SARIMA** 
-    * **SARIMAX** 
-    * **VAR(p)**: Granger Causality test
-    * Jupyter Notebook: **Python Panda Sklearn Statsmodels Math Seaborn**
-      
-* **Time Series Forecasting for pharma sales with Deep Learning**: [notebook](Timeseries2.ipynb)
-    * **Deep Neural Network** single / multi-step
-    * **Long short-term memory (LSTM)** single / multi-step
-    * **Convolutional Neural Network (CNN)** single / multi-step / autoregressive
-    * **LSTM + CNN**: single / multi-step
-    * **Prophet**: long term / rolling
-    * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet**
-
- * **UCI Heart Disease (Cleveland) dataset: binary outcome Machine Learning classifier**: [notebook](Classification.ipynb)
-    * **Logistic regression**: ROC curve, Confusion matrix, Precision, Recall, F1, Learning curve, Batch vs Stochastic gradient descent, L1 /L2 penalty
-    * **Random Forest, AdaBoost, XGBoost**: Learning curves, Feature importance / Mean Decrease in Impurity, Bootstrapping, K-fold CV, Randomized vs Grid search
-    * **Neural network: Multilayer Perceptron (MLP)**: ROC curve, Training loss curve, Learning curve, Explainability SHAP / LIME
-    * **Training time comparison**
-    * Jupyter Notebook: **Python Panda Sklearn Shap Lime Matplotlib**
-
+#### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, data governance, DHIS2, Tableau, Power BI, Illustrator
 ---
 ## :mortar_board: Education
 

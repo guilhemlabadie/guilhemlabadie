@@ -10,7 +10,7 @@ My name is **Guilhem Labadie**.
    * **A/B testing, Multiarmed Bandits, Thompson Bootstrap Sampling** (Database: AIDS clinical trial) [notebook](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)    
    * **PCA** and **Bayesian Optimization** (Database: Breast Cancer Wisconsin Diagnostic dataset) [notebook](Breast%20Cancer%20Diagnostic%20Features.ipynb)
    * **Time Series Forecasting**: **ARMA(p,q), SARIMA, SARIMAX, VAR(p)** and Granger Causality test (Database: Kaggle Pharma sales) [notebook](Timeseries.ipynb)      
-   * **Time Series Forecasting** with Deep Learning: **Deep Neural Network, LSTM, CNN, LSTM + CNN, Prophet** (Database: Kaggle Pharma sales) [notebook](Timeseries2.ipynb)
+   * **Time Series Forecasting**: **Deep Neural Network, LSTM, CNN, LSTM + CNN, Prophet** (Database: Kaggle Pharma sales) [notebook](Timeseries2.ipynb)
    * **Binary outcome Machine Learning classifier**: **Logistic regression, Random Forest, AdaBoost, XGBoost, MLP, SHAP, LIME** (Database: UCI Heart Disease Cleveland dataset) [notebook](Classification.ipynb)
 
 # Data Strategy . Monitoring & Evaluation · Data Science 

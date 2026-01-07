@@ -60,17 +60,24 @@ New York, USA
 **Standards, Platforms & Partnerships**
 
 - Standardized community health worker indicators across 9 global agencies.
-[![Standardized community health worker indicators](68747470733a2f2f697269732e77686f2e696e742f7365727665722f6170692f636f72652f62697473747265616d732f37666638623730642d383433382d343166362d623437612d3765363331333961656136662f636f6e74656e74.jpeg)](https://www.who.int/publications/i/item/9789241512985)
-- Chaired WHO advisory group on COVID-19 impact on essential health services.
-<img src=https://github.com/guilhemlabadie/example_portfolio/blob/main/WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf.jpg width="25%" />
+<a href="https://www.healthdatacollaborative.org/our-response/working-groups/community-data/guidance-for-community-health-workers-strategic-information-and-service-monitoring/" style="float: left; margin-right: 10px;">
+    <img src="https://github.com/guilhemlabadie/portfolio/blob/main/chw.jpeg"  alt="Standardized community health worker indicators" width="200"/>
+</a>
 
+- Chaired WHO advisory group on COVID-19 impact on essential health services.
+
+<a href="https://www.who.int/publications/i/item/who-2019-nCoV-essential-health-services-monitoring-2021-1" style="float: left; margin-right: 10px;">
+    <img src="https://github.com/guilhemlabadie/portfolio/blob/main/WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf.jpg"  alt="WHO advisory group on COVID-19 impact" width="200"/>
+</a>
 ---
 
 ### Health Expert · Office of the ADG · WHO · 2015 – 2018 · Geneva
 
 - Updated global data frameworks tracking 30B+ USD in commitments (Every Woman Every Child).
 - Data analysis of global survey on child strategy program over 95 countries
-<img src=https://iris.who.int/server/api/core/bitstreams/7ff8b70d-8438-41f6-b47a-7e63139aea6f/content />
+<a href="https://www.who.int/publications/i/item/9789241512985" style="float: left; margin-right: 10px;">
+    <img src="https://github.com/guilhemlabadie/portfolio/blob/main/imci.jpeg"  alt="IMCI" width="200"/>
+</a>
 
 - Directed policy and data mapping for sexual and reproductive health.  
 - Managed collaborations across WHO departments, UN agencies, and academic partners.  

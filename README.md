@@ -60,7 +60,7 @@ New York, USA
 **Standards, Platforms & Partnerships**
 
 - Standardized community health worker indicators across 9 global agencies.
- <img src=https://www.healthdatacollaborative.org/fileadmin/_processed_/b/8/csm_UNICEF_NY_CHW_Guidance_Cover_EN_-_Copy_50_a5b785145e.jpg width="25%" />
+[![Standardized community health worker indicators](68747470733a2f2f697269732e77686f2e696e742f7365727665722f6170692f636f72652f62697473747265616d732f37666638623730642d383433382d343166362d623437612d3765363331333961656136662f636f6e74656e74.jpeg)](https://www.who.int/publications/i/item/9789241512985)
 - Chaired WHO advisory group on COVID-19 impact on essential health services.
 <img src=https://github.com/guilhemlabadie/example_portfolio/blob/main/WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf.jpg width="25%" />
 

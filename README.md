@@ -4,7 +4,7 @@ My name is **Guilhem Labadie**.
 
 🔭 I’m currently working on this [Portfolio](https://github.com/guilhemlabadie/example_portfolio) to showcase some data science techniques used on Health data:
 
-   * **LangGraph**: Multi-Agent Emergency Department Decision Aid: OpenAI API, 4 agents(MD, nurse, social worker, coordinator), Conditional looping, Pydantic [notebook](langgraph1.ipynb)
+   * **LangGraph**: Multi-Agent Emergency Department Decision Aid: OpenAI API, 4 agents(MD, nurse, social worker, coordinator), Conditional looping, Pydantic [notebook](portfolio/langgraph1.ipynb)
    * **Causal Inference**: Linear regression, Generalized Linear Model, Matching, Propensity score matching (Database: MIMIC-IV)  [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
    * **Data Exploration** (Database: MIMIC-IV)  [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
    * **SQL** Data exploration (Database: MIMIC-IV)  [notebook](3.MIMIC-IV_SQL.ipynb) 

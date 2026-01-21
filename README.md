@@ -5,14 +5,14 @@ My name is **Guilhem Labadie**.
 🔭 I’m currently working on this [Portfolio](https://github.com/guilhemlabadie/example_portfolio) to showcase some data science techniques used on Health data:
 
    * **LangGraph**: Multi-Agent Emergency Department Decision Aid: OpenAI API, 4 agents(MD, nurse, social worker, coordinator), Conditional looping, Pydantic [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/langgraph1.ipynb)
-   * **Causal Inference**: Linear regression, Generalized Linear Model, Matching, Propensity score matching (Database: MIMIC-IV)  [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
-   * **Data Exploration** (Database: MIMIC-IV)  [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
-   * **SQL** Data exploration (Database: MIMIC-IV)  [notebook](3.MIMIC-IV_SQL.ipynb) 
-   * **A/B testing, Multiarmed Bandits, Thompson Bootstrap Sampling** (Database: AIDS clinical trial) [notebook](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)    
-   * **PCA** and **Bayesian Optimization** (Database: Breast Cancer Wisconsin Diagnostic dataset) [notebook](Breast%20Cancer%20Diagnostic%20Features.ipynb)
-   * **Time Series Forecasting**: **ARMA(p,q), SARIMA, SARIMAX, VAR(p)** and Granger Causality test (Database: Kaggle Pharma sales) [notebook](Timeseries.ipynb)      
-   * **Time Series Forecasting**: **Deep Neural Network, LSTM, CNN, LSTM + CNN, Prophet** (Database: Kaggle Pharma sales) [notebook](Timeseries2.ipynb)
-   * **Binary outcome Machine Learning classifier**: **Logistic regression, Random Forest, AdaBoost, XGBoost, MLP, SHAP, LIME** (Database: UCI Heart Disease Cleveland dataset) [notebook](Classification.ipynb)
+   * **Causal Inference**: Linear regression, Generalized Linear Model, Matching, Propensity score matching (Database: MIMIC-IV)  [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
+   * **Data Exploration** (Database: MIMIC-IV)  [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
+   * **SQL** Data exploration (Database: MIMIC-IV)  [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/3.MIMIC-IV_SQL.ipynb) 
+   * **A/B testing, Multiarmed Bandits, Thompson Bootstrap Sampling** (Database: AIDS clinical trial) [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)    
+   * **PCA** and **Bayesian Optimization** (Database: Breast Cancer Wisconsin Diagnostic dataset) [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/Breast%20Cancer%20Diagnostic%20Features.ipynb)
+   * **Time Series Forecasting**: **ARMA(p,q), SARIMA, SARIMAX, VAR(p)** and Granger Causality test (Database: Kaggle Pharma sales) [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/Timeseries.ipynb)      
+   * **Time Series Forecasting**: **Deep Neural Network, LSTM, CNN, LSTM + CNN, Prophet** (Database: Kaggle Pharma sales) [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/Timeseries2.ipynb)
+   * **Binary outcome Machine Learning classifier**: **Logistic regression, Random Forest, AdaBoost, XGBoost, MLP, SHAP, LIME** (Database: UCI Heart Disease Cleveland dataset) [notebook](https://github.com/guilhemlabadie/portfolio/blob/main/Classification.ipynb)
 
 # Data Strategy . Monitoring & Evaluation · Data Science 
 
